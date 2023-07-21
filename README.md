@@ -13,6 +13,6 @@ This course is intended to demonstrate foundational Python skills for working wi
 - Dashboard creation
 
 ## Certificates
-Verification of the certificate can be found [here]():
+Certificate verification can be found [here]():
 
 ![image](https://github.com/ethanbenavides/Python-Project-for-Data-Science/assets/57383185/c7c19e46-49f6-436d-88d7-d6514b170dad)
